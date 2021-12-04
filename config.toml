@@ -1,6 +1,6 @@
-baseURL = "https://tsuha0.github.io/"
+baseURL = "https://tsuhao.tech/"
 languageCode = "zh-CN"
-title = "Tsuhao的博客"
+title = "Tsuhao Blog"
 theme = "maupassant"
 googleAnalytics = "G-TW3Z27YPGS"
 
@@ -18,7 +18,7 @@ summaryLength = 140
 
 [params]
   author = "Tsuhao"
-  subtitle = "USTC在读，正在学习Golang/C++"
+  subtitle = "Tsuhao的博客，正在学习Golang/C++"
   keywords = "golang C++"
   description = "s"
   busuanzi = true #启用不算子网页统计
