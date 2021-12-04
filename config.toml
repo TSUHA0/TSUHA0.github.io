@@ -22,7 +22,7 @@ summaryLength = 140
   keywords = "golang C++"
   description = "s"
   busuanzi = true #启用不算子网页统计
-  googleAd = ""  #ca-pub-xxxxxxxxxxxxxx
+  googleAd = "G-TW3Z27YPGS"  #ca-pub-xxxxxxxxxxxxxx
   localSearch = true # 启用本地搜索
 
   # 这里我存放在了主题的static文件夹里，根目录的似乎也可以
