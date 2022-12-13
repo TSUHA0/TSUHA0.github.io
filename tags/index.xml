@@ -3,11 +3,12 @@
     <title>Tags - 标签 - TsuhaoBlog</title>
     <link>http://tsuhao.tech/tags/</link>
     <description>Tags - 标签 - TsuhaoBlog</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 14 Dec 2022 00:59:49 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
+      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Wed, 14 Dec 2022 01:17:20 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/" rel="self" type="application/rss+xml" /><item>
   <title>draft</title>
   <link>http://tsuhao.tech/tags/draft/</link>
-  <pubDate>Wed, 14 Dec 2022 00:59:49 &#43;0800</pubDate>
-  <author>作者</author>
+  <pubDate>Wed, 14 Dec 2022 01:17:20 &#43;0800</pubDate>
+  <author>Tsuhao</author>
   <guid>http://tsuhao.tech/tags/draft/</guid>
   <description><![CDATA[]]></description>
 </item>

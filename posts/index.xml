@@ -3,8 +3,17 @@
     <title>所有文章 - TsuhaoBlog</title>
     <link>http://tsuhao.tech/posts/</link>
     <description>所有文章 | TsuhaoBlog</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 14 Dec 2022 00:59:49 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>Index</title>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
+      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Wed, 14 Dec 2022 01:17:20 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>语法巩固</title>
+  <link>http://tsuhao.tech/posts/%E8%AF%AD%E6%B3%95%E5%B7%A9%E5%9B%BA/</link>
+  <pubDate>Wed, 14 Dec 2022 01:17:20 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://tsuhao.tech/posts/%E8%AF%AD%E6%B3%95%E5%B7%A9%E5%9B%BA/</guid>
+  <description><![CDATA[<p>记录cpp算法刷题需要重复使用的语法知识点。</p>]]></description>
+</item>
+<item>
+  <title>AcWing算法学习记录</title>
   <link>http://tsuhao.tech/posts/acwing-learn-log/</link>
   <pubDate>Wed, 14 Dec 2022 00:59:49 &#43;0800</pubDate>
   <author>作者</author>
