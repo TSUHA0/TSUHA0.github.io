@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TsuhaoBlog</title>
-    <link>https://tsuha0.github.io/categories/</link>
+    <link>http://tsuhao.tech/categories/</link>
     <description>Recent content in Categories on TsuhaoBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Dec 2022 19:00:19 +0800</lastBuildDate><atom:link href="https://tsuha0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 19:00:19 +0800</lastBuildDate><atom:link href="http://tsuhao.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>draft</title>
-      <link>https://tsuha0.github.io/categories/draft/</link>
+      <link>http://tsuhao.tech/categories/draft/</link>
       <pubDate>Tue, 13 Dec 2022 19:00:19 +0800</pubDate>
       
-      <guid>https://tsuha0.github.io/categories/draft/</guid>
+      <guid>http://tsuhao.tech/categories/draft/</guid>
       <description></description>
     </item>
     
