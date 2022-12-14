@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>cpp - 标签 - TsuhaoBlog</title>
+    <link>http://tsuhao.tech/tags/cpp/</link>
+    <description>cpp - 标签 - TsuhaoBlog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
+      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Wed, 14 Dec 2022 14:54:48 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/cpp/" rel="self" type="application/rss+xml" /><item>
+  <title>语法巩固</title>
+  <link>http://tsuhao.tech/posts/%E8%AF%AD%E6%B3%95%E5%B7%A9%E5%9B%BA/</link>
+  <pubDate>Wed, 14 Dec 2022 14:54:48 &#43;0800</pubDate>
+  <author>Tsuhao</author>
+  <guid>http://tsuhao.tech/posts/%E8%AF%AD%E6%B3%95%E5%B7%A9%E5%9B%BA/</guid>
+  <description><![CDATA[算法学习语法巩固，记录cpp算法刷题需要重复使用的语法知识点。]]></description>
+</item>
+</channel>
+</rss>

@@ -4,12 +4,20 @@
     <link>http://tsuhao.tech/tags/</link>
     <description>Tags - 标签 - TsuhaoBlog</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
-      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Wed, 14 Dec 2022 01:17:20 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/" rel="self" type="application/rss+xml" /><item>
-  <title>draft</title>
-  <link>http://tsuhao.tech/tags/draft/</link>
-  <pubDate>Wed, 14 Dec 2022 01:17:20 &#43;0800</pubDate>
+      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Wed, 14 Dec 2022 14:54:48 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>acwing</title>
+  <link>http://tsuhao.tech/tags/acwing/</link>
+  <pubDate>Wed, 14 Dec 2022 14:54:48 &#43;0800</pubDate>
   <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/tags/draft/</guid>
+  <guid>http://tsuhao.tech/tags/acwing/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>cpp</title>
+  <link>http://tsuhao.tech/tags/cpp/</link>
+  <pubDate>Wed, 14 Dec 2022 14:54:48 &#43;0800</pubDate>
+  <author>Tsuhao</author>
+  <guid>http://tsuhao.tech/tags/cpp/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
