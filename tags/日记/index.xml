@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>日记 - 标签 - TsuhaoBlog</title>
+    <link>http://tsuhao.tech/tags/%E6%97%A5%E8%AE%B0/</link>
+    <description>日记 - 标签 - TsuhaoBlog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
+      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Fri, 16 Dec 2022 14:46:46 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/%E6%97%A5%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
+  <title>LOG2022</title>
+  <link>http://tsuhao.tech/posts/log2022/</link>
+  <pubDate>Fri, 16 Dec 2022 14:46:46 &#43;0800</pubDate>
+  <author>Tsuhao</author>
+  <guid>http://tsuhao.tech/posts/log2022/</guid>
+  <description><![CDATA[2022日记]]></description>
+</item>
+</channel>
+</rss>
