@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>draft - 标签 - TsuhaoBlog</title>
+    <link>http://tsuhao.tech/tags/draft/</link>
+    <description>draft - 标签 - TsuhaoBlog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
+      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Tue, 27 Dec 2022 14:06:17 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>CppPrimerLog</title>
+  <link>http://tsuhao.tech/posts/cppprimerlog/</link>
+  <pubDate>Tue, 27 Dec 2022 14:06:17 &#43;0800</pubDate>
+  <author>Tsuhao</author>
+  <guid>http://tsuhao.tech/posts/cppprimerlog/</guid>
+  <description><![CDATA[c++ primer 学习笔记]]></description>
+</item>
+</channel>
+</rss>

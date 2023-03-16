@@ -4,7 +4,15 @@
     <link>http://tsuhao.tech/tags/</link>
     <description>Tags - 标签 - TsuhaoBlog</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
-      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Fri, 16 Dec 2022 14:46:46 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Tue, 27 Dec 2022 14:06:17 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>draft</title>
+  <link>http://tsuhao.tech/tags/draft/</link>
+  <pubDate>Tue, 27 Dec 2022 14:06:17 &#43;0800</pubDate>
+  <author>Tsuhao</author>
+  <guid>http://tsuhao.tech/tags/draft/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>日记</title>
   <link>http://tsuhao.tech/tags/%E6%97%A5%E8%AE%B0/</link>
   <pubDate>Fri, 16 Dec 2022 14:46:46 &#43;0800</pubDate>
