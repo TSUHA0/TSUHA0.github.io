@@ -5,11 +5,11 @@
     <description>语法 - 标签 - TsuhaoBlog</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
       <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Tue, 27 Dec 2022 14:06:17 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/%E8%AF%AD%E6%B3%95/" rel="self" type="application/rss+xml" /><item>
-  <title>CppPrimerLog</title>
-  <link>http://tsuhao.tech/posts/cppprimerlog/</link>
+  <title>CppPrimer学习01</title>
+  <link>http://tsuhao.tech/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BB%E4%B9%A6%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A001/</link>
   <pubDate>Tue, 27 Dec 2022 14:06:17 &#43;0800</pubDate>
   <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/posts/cppprimerlog/</guid>
+  <guid>http://tsuhao.tech/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BB%E4%B9%A6%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A001/</guid>
   <description><![CDATA[c++ primer 学习笔记]]></description>
 </item>
 </channel>

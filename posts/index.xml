@@ -5,52 +5,36 @@
     <description>所有文章 | TsuhaoBlog</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
       <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Tue, 14 Mar 2023 21:11:46 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>TsuhaOS-00 汇编杂谈</title>
-  <link>http://tsuhao.tech/posts/tsuhaos-00/</link>
+  <title>TsuhaOS-000-汇编杂谈</title>
+  <link>http://tsuhao.tech/posts/tsuhaos/tsuhaos-000-%E6%B1%87%E7%BC%96%E6%9D%82%E8%B0%88/</link>
   <pubDate>Tue, 14 Mar 2023 21:11:46 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://tsuhao.tech/posts/tsuhaos-00/</guid>
+  <author>Tsuhao</author>
+  <guid>http://tsuhao.tech/posts/tsuhaos/tsuhaos-000-%E6%B1%87%E7%BC%96%E6%9D%82%E8%B0%88/</guid>
   <description><![CDATA[<p>TsuhaOS-00 汇编杂谈</p>]]></description>
 </item>
 <item>
-  <title>TsuhaOS-01 配置环境</title>
-  <link>http://tsuhao.tech/posts/tsuhaos-01/</link>
+  <title>TsuhaOS-001-配置环境</title>
+  <link>http://tsuhao.tech/posts/tsuhaos/tsuhaos-001-%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/</link>
   <pubDate>Tue, 14 Mar 2023 20:57:54 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://tsuhao.tech/posts/tsuhaos-01/</guid>
+  <author>Tsuhao</author>
+  <guid>http://tsuhao.tech/posts/tsuhaos/tsuhaos-001-%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/</guid>
   <description><![CDATA[<p>TsuhaOS-01 配置环境</p>]]></description>
 </item>
 <item>
-  <title>CppPrimerLog</title>
-  <link>http://tsuhao.tech/posts/cppprimerlog/</link>
+  <title>CppPrimer学习01</title>
+  <link>http://tsuhao.tech/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BB%E4%B9%A6%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A001/</link>
   <pubDate>Tue, 27 Dec 2022 14:06:17 &#43;0800</pubDate>
   <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/posts/cppprimerlog/</guid>
+  <guid>http://tsuhao.tech/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BB%E4%B9%A6%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A001/</guid>
   <description><![CDATA[c++ primer 学习笔记]]></description>
 </item>
 <item>
-  <title>LOG2022</title>
-  <link>http://tsuhao.tech/posts/log2022/</link>
-  <pubDate>Fri, 16 Dec 2022 14:46:46 &#43;0800</pubDate>
-  <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/posts/log2022/</guid>
-  <description><![CDATA[2022日记]]></description>
-</item>
-<item>
   <title>AcWing算法学习记录</title>
-  <link>http://tsuhao.tech/posts/acwing-learn-log/</link>
+  <link>http://tsuhao.tech/posts/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/acwing%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</link>
   <pubDate>Wed, 14 Dec 2022 14:54:48 &#43;0800</pubDate>
   <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/posts/acwing-learn-log/</guid>
+  <guid>http://tsuhao.tech/posts/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/acwing%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>
   <description><![CDATA[ACWING算法学习记录]]></description>
-</item>
-<item>
-  <title>语法巩固</title>
-  <link>http://tsuhao.tech/posts/%E8%AF%AD%E6%B3%95%E5%B7%A9%E5%9B%BA/</link>
-  <pubDate>Wed, 14 Dec 2022 14:54:48 &#43;0800</pubDate>
-  <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/posts/%E8%AF%AD%E6%B3%95%E5%B7%A9%E5%9B%BA/</guid>
-  <description><![CDATA[算法学习语法巩固，记录cpp算法刷题需要重复使用的语法知识点。]]></description>
 </item>
 </channel>
 </rss>
