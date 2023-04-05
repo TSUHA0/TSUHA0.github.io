@@ -2,20 +2,7 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
+      <loc>http://tsuhao.tech/about/</loc><lastmod>2022-12-19T19:31:06&#43;08:00</lastmod></url><url>
       <loc>http://tsuhao.tech/categories/</loc></url><url>
-      <loc>http://tsuhao.tech/tags/os/</loc></url><url>
-      <loc>http://tsuhao.tech/categories/os/</loc></url><url>
-      <loc>http://tsuhao.tech/posts/</loc></url><url>
       <loc>http://tsuhao.tech/tags/</loc></url><url>
-      <loc>http://tsuhao.tech/</loc></url><url>
-      <loc>http://tsuhao.tech/posts/tsuhaos/tsuhaos-000-%E6%B1%87%E7%BC%96%E6%9D%82%E8%B0%88/</loc></url><url>
-      <loc>http://tsuhao.tech/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc></url><url>
-      <loc>http://tsuhao.tech/posts/tsuhaos/tsuhaos-001-%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/</loc></url><url>
-      <loc>http://tsuhao.tech/tags/cpp/</loc></url><url>
-      <loc>http://tsuhao.tech/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BB%E4%B9%A6%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A0/cppprimer%E5%AD%A6%E4%B9%A001/</loc></url><url>
-      <loc>http://tsuhao.tech/tags/%E8%AF%AD%E6%B3%95/</loc></url><url>
-      <loc>http://tsuhao.tech/categories/%E8%AF%AD%E6%B3%95/</loc></url><url>
-      <loc>http://tsuhao.tech/tags/acwing/</loc></url><url>
-      <loc>http://tsuhao.tech/posts/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/acwing%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</loc></url><url>
-      <loc>http://tsuhao.tech/categories/%E7%AE%97%E6%B3%95/</loc></url><url>
-      <loc>http://tsuhao.tech/about/</loc><lastmod>2022-12-19T19:31:06&#43;08:00</lastmod></url></urlset>
+      <loc>http://tsuhao.tech/</loc></url></urlset>
