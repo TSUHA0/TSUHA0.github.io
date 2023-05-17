@@ -36,8 +36,7 @@
   <pubDate>Wed, 05 Apr 2023 19:35:53 &#43;0800</pubDate>
   <author>Tsuhao</author>
   <guid>http://tsuhao.tech/posts/%E6%B1%87%E7%BC%96/%E6%B1%87%E7%BC%96%E6%9D%82%E8%B0%88-%E5%85%89%E6%A0%87%E8%AE%BE%E7%BD%AE/</guid>
-  <description><![CDATA[<p><a href="posts/%e6%b1%87%e7%bc%96/%e6%b1%87%e7%bc%96%e6%9d%82%e8%b0%88-%e5%85%89%e6%a0%87%e8%ae%be%e7%bd%ae.md">汇编杂谈-光标设置</a></p>
-<p>调整 CRT 阴极射线管控制器光标位置</p>]]></description>
+  <description><![CDATA[<p>调整 CRT 阴极射线管控制器光标位置</p>]]></description>
 </item>
 <item>
   <title>汇编杂谈-函数调用</title>
