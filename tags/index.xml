@@ -1,31 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Tags - 标签 - TsuhaoBlog</title>
-    <link>http://tsuhao.tech/tags/</link>
+    <link>http://tsuhao.net/tags/</link>
     <description>Tags - 标签 - TsuhaoBlog</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tsuhao@ustc.edu (Tsuhao)</managingEditor>
-      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Fri, 05 May 2023 15:05:02 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.tech/tags/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>tsuhao@ustc.edu (Tsuhao)</webMaster><lastBuildDate>Fri, 05 May 2023 15:05:02 &#43;0800</lastBuildDate><atom:link href="http://tsuhao.net/tags/" rel="self" type="application/rss+xml" /><item>
   <title>OS</title>
-  <link>http://tsuhao.tech/tags/OS/</link>
+  <link>http://tsuhao.net/tags/OS/</link>
   <pubDate>Fri, 05 May 2023 15:05:02 &#43;0800</pubDate>
   <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/tags/OS/</guid>
+  <guid>http://tsuhao.net/tags/OS/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>汇编语言</title>
-  <link>http://tsuhao.tech/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/</link>
+  <link>http://tsuhao.net/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/</link>
   <pubDate>Fri, 05 May 2023 15:05:02 &#43;0800</pubDate>
   <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/</guid>
+  <guid>http://tsuhao.net/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>makefile</title>
-  <link>http://tsuhao.tech/tags/makefile/</link>
+  <link>http://tsuhao.net/tags/makefile/</link>
   <pubDate>Wed, 05 Apr 2023 19:53:10 &#43;0800</pubDate>
   <author>Tsuhao</author>
-  <guid>http://tsuhao.tech/tags/makefile/</guid>
+  <guid>http://tsuhao.net/tags/makefile/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
