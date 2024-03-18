@@ -12,7 +12,7 @@
   <pubDate>Fri, 05 May 2023 15:05:02 &#43;0800</pubDate>
   <author>Tsuhao</author>
   <guid>http://tsuhao.net/posts/%E6%B1%87%E7%BC%96/%E6%B1%87%E7%BC%96%E6%9D%82%E8%B0%88-%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%92%8C%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4/</guid>
-  <description><![CDATA[汇编杂谈-逻辑运算指令和移位指令]]></description>
+  <description><![CDATA[逻辑运算指令 AND / TEST, TEST 执行 AND 指令但是不更新寄存器，只更新 EFLAGS SUB / CMP，同上，CMP 指令不更新寄存器，但更新 EFLAGS OR XOR NOT TEST 和 CMP 指令会更新 EFLAGS 寄存器，详]]></description>
 </item>
 <item>
   <title>Makefile通配符</title>
@@ -20,7 +20,7 @@
   <pubDate>Wed, 05 Apr 2023 19:53:10 &#43;0800</pubDate>
   <author>Tsuhao</author>
   <guid>http://tsuhao.net/posts/%E6%9D%82%E8%B0%88/Makefile%E9%80%9A%E9%85%8D%E7%AC%A6/</guid>
-  <description><![CDATA[]]></description>
+  <description><![CDATA[% 表示通配符，%&lt; 表示输入，%@ 表示输出 1 2 %.bin: %.asm nasm %&lt; -o %@ Hugo模板]]></description>
 </item>
 <item>
   <title>汇编杂谈-8086寄存器</title>
@@ -44,7 +44,7 @@
   <pubDate>Wed, 05 Apr 2023 19:35:53 &#43;0800</pubDate>
   <author>Tsuhao</author>
   <guid>http://tsuhao.net/posts/%E6%B1%87%E7%BC%96/%E6%B1%87%E7%BC%96%E6%9D%82%E8%B0%88-%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8/</guid>
-  <description><![CDATA[汇编杂谈-函数调用]]></description>
+  <description><![CDATA[jmp指令 - 知乎 jmp short start 占用两个字节，jmp 指令一个字节，地址一个字节，-128 - 127 jmp near start 占用三个字节，jmp 指令一个字节，地址两个字节，-3]]></description>
 </item>
 <item>
   <title>汇编杂谈-内中断</title>
@@ -52,7 +52,7 @@
   <pubDate>Wed, 05 Apr 2023 19:35:53 &#43;0800</pubDate>
   <author>Tsuhao</author>
   <guid>http://tsuhao.net/posts/%E6%B1%87%E7%BC%96/%E6%B1%87%E7%BC%96%E6%9D%82%E8%B0%88-%E5%86%85%E4%B8%AD%E6%96%AD/</guid>
-  <description><![CDATA[汇编杂谈-内中断]]></description>
+  <description><![CDATA[0x000 ~ 0x3ff 的 1kb 为中断向量表，一个向量由 cs:ip 组成，共 32 位 4B，因此最多存 256 个中断向量。 例如要向第 0x80 中断向量注册 print 函数，可以使用如下代码，注意需要用 iret]]></description>
 </item>
 <item>
   <title>汇编杂谈-寻址</title>
@@ -60,7 +60,7 @@
   <pubDate>Wed, 05 Apr 2023 19:35:53 &#43;0800</pubDate>
   <author>Tsuhao</author>
   <guid>http://tsuhao.net/posts/%E6%B1%87%E7%BC%96/%E6%B1%87%E7%BC%96%E6%9D%82%E8%B0%88-%E5%AF%BB%E5%9D%80/</guid>
-  <description><![CDATA[]]></description>
+  <description><![CDATA[1 隐含寻址 含义：操作数隐含的由累加器给出。（即某指令由固定的操作数，不需要给出） 1 2 cwd ; 把ax中的内容按符号位拓展成dx,ax双字 clc ; cf置]]></description>
 </item>
 </channel>
 </rss>
